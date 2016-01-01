@@ -1,0 +1,4 @@
+Andrew 18, 20000@Store-Keeper
+Brian 22, 15000@Helper
+Charlie 32, 10000@Comedian
+Jane 30, 17000@Receptionist

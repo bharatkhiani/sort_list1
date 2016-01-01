@@ -1,0 +1,9 @@
+C:\data\bharat\gareth1\sort_list1\sort_list1\bin\Debug\sort_list1.exe.config
+C:\data\bharat\gareth1\sort_list1\sort_list1\bin\Debug\sort_list1.exe
+C:\data\bharat\gareth1\sort_list1\sort_list1\bin\Debug\sort_list1.pdb
+C:\data\bharat\gareth1\sort_list1\sort_list1\obj\Debug\sort_list1.csprojResolveAssemblyReference.cache
+C:\data\bharat\gareth1\sort_list1\sort_list1\obj\Debug\sort_list1.Form1.resources
+C:\data\bharat\gareth1\sort_list1\sort_list1\obj\Debug\sort_list1.Properties.Resources.resources
+C:\data\bharat\gareth1\sort_list1\sort_list1\obj\Debug\sort_list1.csproj.GenerateResource.Cache
+C:\data\bharat\gareth1\sort_list1\sort_list1\obj\Debug\sort_list1.exe
+C:\data\bharat\gareth1\sort_list1\sort_list1\obj\Debug\sort_list1.pdb
