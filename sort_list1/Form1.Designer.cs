@@ -45,6 +45,7 @@
             this.btnSortName.TabIndex = 1;
             this.btnSortName.Text = "Sort By Name";
             this.btnSortName.UseVisualStyleBackColor = true;
+            this.btnSortName.Click += new System.EventHandler(this.btnSortName_Click);
             // 
             // txbData
             // 
@@ -74,6 +75,7 @@
             this.btnSortAge.TabIndex = 2;
             this.btnSortAge.Text = "Sort By Age";
             this.btnSortAge.UseVisualStyleBackColor = true;
+            this.btnSortAge.Click += new System.EventHandler(this.btnSortAge_Click);
             // 
             // btnSortSalary
             // 
@@ -84,6 +86,7 @@
             this.btnSortSalary.TabIndex = 3;
             this.btnSortSalary.Text = "Sort By Salary";
             this.btnSortSalary.UseVisualStyleBackColor = true;
+            this.btnSortSalary.Click += new System.EventHandler(this.btnSortSalary_Click);
             // 
             // btnSortOccupation
             // 
@@ -94,6 +97,7 @@
             this.btnSortOccupation.TabIndex = 4;
             this.btnSortOccupation.Text = "Sort By Occupation";
             this.btnSortOccupation.UseVisualStyleBackColor = true;
+            this.btnSortOccupation.Click += new System.EventHandler(this.btnSortOccupation_Click);
             // 
             // Form1
             // 
